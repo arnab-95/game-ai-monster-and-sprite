@@ -1,4 +1,4 @@
-# A 2D Game where the sprite AI plays against the monster AI.
+# A 2D Game where the Sprite AI plays against the Monster AI.
 
 All 2D kinematics (position, velocity, acceleration, rotation, etc) have been implemented from scratch using SFML. 
 
